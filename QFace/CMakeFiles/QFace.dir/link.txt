@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++   -O3 -DNDEBUG    CMakeFiles/QFace.dir/QFace.cpp.o CMakeFiles/QFace.dir/QtFace.cpp.o CMakeFiles/QFace.dir/QtView.cpp.o CMakeFiles/QFace.dir/QFace_automoc.cpp.o  -o QFace -rdynamic ../XSmilAgent/libXSmilAgent.a ../XFace/libXFace.a -lQtOpenGL -lQtGui -lQtCore -lSDL -lpthread -lxerces-c -lGLU -lGL -lSM -lICE -lX11 -lXext 

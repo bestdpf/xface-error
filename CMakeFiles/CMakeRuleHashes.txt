@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+242a7fa5d6427b670927c2621b5782dd QFace/CMakeFiles/QFace_automoc

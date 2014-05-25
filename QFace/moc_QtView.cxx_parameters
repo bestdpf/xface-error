@@ -1,0 +1,10 @@
+-I/usr/include
+-I/usr/include/QtOpenGL
+-I/usr/include/QtGui
+-I/usr/include/QtCore
+-DQT_OPENGL_LIB
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/home/duan/xface-new/QFace/moc_QtView.cxx
+/home/duan/xface-new/QFace/QtView.h
